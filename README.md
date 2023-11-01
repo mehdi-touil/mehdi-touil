@@ -61,7 +61,7 @@ Technologies: Python, Streamlit, NLTK, scikit-learn, Pandas, KNN Multilabeling
 
 
 
-### [Sentiment Analysis of Product Reviews: ]([Project_Link](https://colab.research.google.com/drive/1vk4FfpA1o10CyDD1RmelfIlwn7FBEtOc?usp=sharing))
+### [Sentiment Analysis of Product Reviews: ](ttps://colab.research.google.com/drive/1vk4FfpA1o10CyDD1RmelfIlwn7FBEtOc?usp=sharing)
 Conducted sentiment analysis on product reviews using various NLP techniques and machine learning models.
 Technologies: NLP, BeautifulSoup, Tokenization, Lemmatization, TF-IDF, Multinomial Naive Bayes
 
