@@ -5,16 +5,16 @@
 
 <img align="left" height="270px" alt="hello_world" src="pic.png" />
 
-<h3> :woman: &nbsp;About Me </h3>
+<h3> 👨: &nbsp;About Me </h3>
 
-- 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: an NLP sentiment analysis project
-- :heart: My favorite language: SQL
+- 🔭 I’m currently Data Science Student at Ensias
+- - :heart: I'm interested in ML/DL/NLP/Data Engineer/Data Science
+- :heart: My favorite language: Python
 - 🌱 I’m currently learning: nueral nets and Mandarin
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
+- 💜 Interests: Reading, travel, sport, Maths
 - ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
 
 <br/>
@@ -43,18 +43,30 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+### [Intelligent Chatbot Development: ](https://depfbot.streamlit.app/)
+Led the development of an intelligent chatbot for the Department of Economic Studies and Financial Forecast (DEPF) to address inquiries and enhance user engagement.
+Technologies: ChatBot, ChatGPT, Pinecone, Streamlit, Langchain, NLP, DeepLearning
 
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
+### [Traffic Sign Recognition System: ]([Project_Link](https://drive.google.com/drive/folders/1gswQg87WVK-lZAZo0Pa85RjKeVftv8t8?fbclid=IwAR1dliCpgqCggNhniScN7CV-6rUmmvoCZBoek69BBiyWYlUYujTpJVaoKH4))
+Developed a real-time Traffic Sign Recognition System using Convolutional Neural Networks (CNN) and implemented it on a Field-Programmable Gate Array (FPGA) platform.
+Technologies: Deep Learning, FPGA, Computer Vision, CNN, YOLOV5, Image Recognition
+
+### [Customer Churn Data Engineering & analysis : ](https://github.com/mehdi-touil/Churn-Data-Engineering-and-Analysis)
+Collaborated on data engineering processes, including data cleaning, Apache Airflow workflow management, AWS cloud infrastructure, and data lake architecture.
+Technologies: AWS, SQL, Apache Airflow, Python
 
 
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+### [Resume Screening App: ](https://github.com/mehdi-touil/CV-Labeling-App)
+Developed an application for screening resumes by implementing machine learning models and natural language processing techniques.
+Technologies: Python, Streamlit, NLTK, scikit-learn, Pandas, KNN Multilabeling
+
+
+
+### [Sentiment Analysis of Product Reviews: ]([Project_Link](https://colab.research.google.com/drive/1vk4FfpA1o10CyDD1RmelfIlwn7FBEtOc?usp=sharing))
+Conducted sentiment analysis on product reviews using various NLP techniques and machine learning models.
+Technologies: NLP, BeautifulSoup, Tokenization, Lemmatization, TF-IDF, Multinomial Naive Bayes
+
+
 
 </p>
 
