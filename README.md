@@ -3,7 +3,6 @@
 ![Welcome Banner](banner.gif)
 
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
 
 <h3> 👨: &nbsp;About Me </h3>
 
@@ -98,7 +97,3 @@ Technologies: NLP, BeautifulSoup, Tokenization, Lemmatization, TF-IDF, Multinomi
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
 </p>
 
------
-Credit: [Jiji C.](https://github.com/DataOnATangent)
-
-Last edited on: 06/03/2021
