@@ -47,7 +47,7 @@
 Led the development of an intelligent chatbot for the Department of Economic Studies and Financial Forecast (DEPF) to address inquiries and enhance user engagement.
 Technologies: ChatBot, ChatGPT, Pinecone, Streamlit, Langchain, NLP, DeepLearning
 
-### [Traffic Sign Recognition System: ]([Project_Link](https://drive.google.com/drive/folders/1gswQg87WVK-lZAZo0Pa85RjKeVftv8t8?fbclid=IwAR1dliCpgqCggNhniScN7CV-6rUmmvoCZBoek69BBiyWYlUYujTpJVaoKH4))
+### [Traffic Sign Recognition System: ](https://drive.google.com/drive/folders/1gswQg87WVK-lZAZo0Pa85RjKeVftv8t8?fbclid=IwAR1dliCpgqCggNhniScN7CV-6rUmmvoCZBoek69BBiyWYlUYujTpJVaoKH4))
 Developed a real-time Traffic Sign Recognition System using Convolutional Neural Networks (CNN) and implemented it on a Field-Programmable Gate Array (FPGA) platform.
 Technologies: Deep Learning, FPGA, Computer Vision, CNN, YOLOV5, Image Recognition
 
