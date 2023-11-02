@@ -7,14 +7,13 @@
 <h3> 👨: &nbsp;About Me </h3>
 
 - 🔭 I’m currently Data Science Student at Ensias
-- - :heart: I'm interested in ML/DL/NLP/Data Engineer/Data Science
+- :heart: I'm interested in ML/DL/NLP/Data Engineer/Data Science
 - :heart: My favorite language: Python
-- 🌱 I’m currently learning: nueral nets and Mandarin
+- 🌱 I’m currently learning and improving myself
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
+- 🌍 I like research field and innovate and I'd like to Continue my phd.
 - 💜 Interests: Reading, travel, sport, Maths
-- ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
 
 <br/>
 
@@ -86,14 +85,4 @@ Technologies: NLP, BeautifulSoup, Tokenization, Lemmatization, TF-IDF, Multinomi
 <br/> 
 <p>
 
-<a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
-</p>
-<br/>
-
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
-</p>
 
