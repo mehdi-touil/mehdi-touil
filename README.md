@@ -60,7 +60,7 @@ Technologies: Python, Streamlit, NLTK, scikit-learn, Pandas, KNN Multilabeling
 
 
 
-### [Sentiment Analysis of Product Reviews: ](ttps://colab.research.google.com/drive/1vk4FfpA1o10CyDD1RmelfIlwn7FBEtOc?usp=sharing)
+### [Sentiment Analysis of Product Reviews: ](https://colab.research.google.com/drive/1vk4FfpA1o10CyDD1RmelfIlwn7FBEtOc?usp=sharing)
 Conducted sentiment analysis on product reviews using various NLP techniques and machine learning models.
 Technologies: NLP, BeautifulSoup, Tokenization, Lemmatization, TF-IDF, Multinomial Naive Bayes
 
@@ -73,11 +73,11 @@ Technologies: NLP, BeautifulSoup, Tokenization, Lemmatization, TF-IDF, Multinomi
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/anjcray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mehditouil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
 <a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+<!--<a href="https://mehdi-touil.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
 
