@@ -31,18 +31,22 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-- 💻 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 - 🧠 Machine Learning:
-  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-35495E?style=for-the-badge)
-  ![NLP](https://img.shields.io/badge/Natural_Language_Processing-3C873A?style=for-the-badge)
-  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-409AE1?style=for-the-badge)
-  - 🧠 Machine Learning:
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![NLTK](https://img.shields.io/badge/NLTK-333333?style=for-the-badge)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+- 📖 Natural Language Processing:
+  ![NLTK](https://img.shields.io/badge/NLTK-333333?style=for-the-badge)
+  ![spaCy](https://img.shields.io/badge/spaCy-03AA87?style=for-the-badge)
+  ![Gensim](https://img.shields.io/badge/Gensim-40C4FF?style=for-the-badge)
+
+- 🌐 Deep Learning:
+   ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ![Hugging Face Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FF3E8D?style=for-the-badge)
+  ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+  ![TensorFlow (Computer Vision)](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 <br/>
 
 <p>
