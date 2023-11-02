@@ -17,11 +17,10 @@
 
 <br/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Skills & tools </h3>
 
-- :space_invader:
+- 💻 **Programming Skills:**
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 - 🌐 &nbsp;
@@ -32,21 +31,43 @@
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 🧠 Machine Learning:
+  ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-333333?style=for-the-badge)
+  ![Data Organization](https://img.shields.io/badge/Data_Organization-888888?style=for-the-badge)
+  ![Feature Extraction](https://img.shields.io/badge/Feature_Extraction-47A248?style=for-the-badge)
+  ![Feature Creation](https://img.shields.io/badge/Feature_Creation-3B5998?style=for-the-badge)
+  ![ML Models](https://img.shields.io/badge/ML_Models-409AE1?style=for-the-badge)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-757575?style=for-the-badge)
+  ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-3488C0?style=for-the-badge)
 
 - 📖 Natural Language Processing:
   ![NLTK](https://img.shields.io/badge/NLTK-333333?style=for-the-badge)
   ![spaCy](https://img.shields.io/badge/spaCy-03AA87?style=for-the-badge)
   ![Gensim](https://img.shields.io/badge/Gensim-40C4FF?style=for-the-badge)
 
-- 🌐 Deep Learning:
-   ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+- 🤖 **Deep Learning:**
+  ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF4500?style=for-the-badge)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
   ![Hugging Face Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FF3E8D?style=for-the-badge)
   ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
   ![TensorFlow (Computer Vision)](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+- 📊 **Statistics:**
+  ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-5E8AEE?style=for-the-badge)
+  ![Probability](https://img.shields.io/badge/Probability-0C63A6?style=for-the-badge)
+
+- 🤝 **Collaboration Tools:**
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+  ![Version Control](https://img.shields.io/badge/Version_Control-2188FF?style=for-the-badge)
+
+- 💡 **Problem-Solving & Analytical Thinking:**
+  ![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-002E5D?style=for-the-badge)
+  ![Problem-Solving](https://img.shields.io/badge/Problem_Solving-2674E6?style=for-the-badge)
+
 <br/>
 
 <p>
