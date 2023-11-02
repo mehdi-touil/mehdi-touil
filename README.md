@@ -34,7 +34,10 @@
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
+- 🧠 Machine Learning:
+  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-35495E?style=for-the-badge)
+  ![NLP](https://img.shields.io/badge/Natural_Language_Processing-3C873A?style=for-the-badge)
+  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-409AE1?style=for-the-badge)
 
 <br/>
 
