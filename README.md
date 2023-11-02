@@ -22,14 +22,6 @@
 - 💻 **Programming Skills:** <br>
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 🧠 Machine Learning:
   ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-333333?style=for-the-badge)
   ![Data Organization](https://img.shields.io/badge/Data_Organization-888888?style=for-the-badge)
