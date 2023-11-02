@@ -19,7 +19,7 @@
 
 <h3> 🛠 &nbsp;My Skills & tools </h3>
 
-- 💻 **Programming Skills:**
+- 💻 **Programming Skills:** <br>
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
