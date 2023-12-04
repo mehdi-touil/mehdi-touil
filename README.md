@@ -89,6 +89,10 @@ Conducted sentiment analysis on product reviews using various NLP techniques and
 Technologies: NLP, BeautifulSoup, Tokenization, Lemmatization, TF-IDF, Multinomial Naive Bayes
 
 
+### [Arabic-OCR-Deep-Learning: ](https://github.com/mehdi-touil/Arabic-OCR-Deep-Learning)
+developed deep learning models and implemented data augmentation techniques using various libraries, including TensorFlow and PyTorch, for Arabic Optical Character Recognition (OCR).
+
+
 
 </p>
 
