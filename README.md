@@ -6,13 +6,15 @@
 
 <h3> 👨: &nbsp;About Me </h3>
 
-- 🔭 I’m currently Data Science Student at Ensias
+- 🔭 I’m currently a Ph.d student at Um6p College of computing.
+- My Area of Research is : Data Marketplaces, Data Valuation, Economics, Machine Learning
+-  I'm a graduated Data Science Engineer From Ensias Rabat.
 - :heart: I'm interested in ML/DL/NLP/Data Engineer/Data Science
 - :heart: My favorite language: Python
 - 🌱 I’m currently learning and improving myself
-- 👯 I’m always looking to collaborate with: scientist from any field
+- 👯 I’m always looking to collaborate with: scientist and researchers from any field
 - 💬 Ask me about: anything, I am happy to help
-- 🌍 I like research field and innovate and I'd like to Continue my phd.
+- 🌍 I like research field and innovate and I'd like to enrich my phd by exchanging with international and national phds and reseachers.
 - 💜 Interests: Reading, travel, sport, Maths
 
 <br/>
